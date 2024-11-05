@@ -16,3 +16,12 @@ canvas {
 h1, h2, h3, h4, h5, h6 {
     #color: #fdf6e3;
 }
+
+.delete-btn {
+    cursor: pointer;
+}
+
+.material-icons, .material-symbols-outlined {
+    font-size: 23px !important;
+    vertical-align: middle;
+}
