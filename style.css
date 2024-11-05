@@ -1,0 +1,18 @@
+
+body, html {
+    margin: 0px !important;
+    #background-color: #073642 !important;
+    height: 100%;
+}
+
+.card, .card-body, .container, .container-fluid {
+    #background-color: #073642;
+}
+
+canvas {
+    #background-color: #eee8d5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    #color: #fdf6e3;
+}
