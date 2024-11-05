@@ -19,9 +19,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .delete-btn {
     cursor: pointer;
+    margin-right: 0.5em;
 }
 
 .material-icons, .material-symbols-outlined {
     font-size: 23px !important;
     vertical-align: middle;
+}
+
+#taskList {
+    list-style-type: none;
+    padding: 0;
 }
